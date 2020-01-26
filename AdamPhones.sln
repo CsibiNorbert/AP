@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdamPhones", "AdamPhones\AdamPhones.csproj", "{18FDC6B8-5F83-4D7B-B5AA-ED0A52064E57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdamPhones.Test", "AdamPhones.Test\AdamPhones.Test.csproj", "{2881CDA3-2C1A-4D5F-A592-5BE05833952D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{18FDC6B8-5F83-4D7B-B5AA-ED0A52064E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{18FDC6B8-5F83-4D7B-B5AA-ED0A52064E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{18FDC6B8-5F83-4D7B-B5AA-ED0A52064E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2881CDA3-2C1A-4D5F-A592-5BE05833952D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2881CDA3-2C1A-4D5F-A592-5BE05833952D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2881CDA3-2C1A-4D5F-A592-5BE05833952D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2881CDA3-2C1A-4D5F-A592-5BE05833952D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
